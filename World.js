@@ -1,5 +1,5 @@
 import * as THREE from 'three'
-import Experience from "./experience";
+import Experience from "./Experience";
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader'
 import gsap from 'gsap';
 
