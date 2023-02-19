@@ -1,5 +1,5 @@
 import { EventEmitter } from "events";
-import Experience from "./experience";
+import Experience from "./Experience";
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
 import { DRACOLoader } from "three/examples/jsm/loaders/DRACOLoader";
 import * as THREE from "three"
