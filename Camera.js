@@ -1,6 +1,6 @@
 import {EventEmitter} from 'events';
 import * as THREE from 'three'
-import Experience from "./experience";
+import Experience from "./Experience";
 import { Triangle } from 'three';
 import studio from '@theatre/studio'
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
